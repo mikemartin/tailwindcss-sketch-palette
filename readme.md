@@ -10,7 +10,7 @@ Install [Sketch Palette plugin](https://github.com/andrewfiorillo/sketch-palette
 
 ## Installation
 
-Download the latest TailwindCSS Sketch Palette [release](https://github.com/mikemartin/tailwindcss-sketch-palette)
+Download the latest TailwindCSS Sketch Palette [release](https://github.com/mikemartin/tailwindcss-sketch-palette/releases/)
 
 ## Loading TailwindCSS Sketch Palette
 
